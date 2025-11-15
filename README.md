@@ -1,4 +1,4 @@
-# How Regional Stereotypes Are Narrated (IAMCR 2024)
+# How Regional Stereotypes Are Narrated
 
 This repository contains code, example data, and writing/slides for the AEJMC 2024 project **“How regional stereotypes are narrated”** (submission \#4288).  
 The project uses a **Latent Dirichlet Allocation (LDA)** topic model to explore how **regional stereotypes** are constructed and circulated in a corpus of online comments.
